@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 /out
 libfreetype-gl.a
 CMakeCache.txt

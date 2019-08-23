@@ -55,8 +55,7 @@ SET(FREETYPE_GL_SRC freetype-gl.h
                     opengl.h
                     texture-atlas.c  texture-atlas.h
                     texture-font.c   texture-font.h
-                    vector.c         vector.h
-                    platform.c       platform.h)
+                    vector.c         vector.h)
 
 ADD_LIBRARY(freetype-gl STATIC ${FREETYPE_GL_SRC})
 
